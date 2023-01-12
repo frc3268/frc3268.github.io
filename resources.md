@@ -15,5 +15,9 @@ subtitle: Handy links for people without them.
 
 ## Community
 ##### Mostly forums  
+[The Blue Alliance](https://www.thebluealliance.com/)  
+[Cheif Delphi](https://www.chiefdelphi.com/)  
+
+
 
 
