@@ -10,7 +10,7 @@ During this time, the club does recruitment and new membersget aquainted with th
 
 ## Build Season  
 From January until the start of Spring break, we are in *Build Season*, which is a fancy way of saying that we meet more often. Below is our schedule for build season.  
-**Monday**
+**Monday**  
 3:20pm - 5:20pm
 
 **Tuesday**
@@ -22,18 +22,18 @@ From January until the start of Spring break, we are in *Build Season*, which is
 **Thursday**  
 3:20pm - 5:20pm
 
-**Friday**
+**Friday**  
 3:20pm - 4:20pm  
 
 ## Competitions  
 We attend 2 regional competitions every year where we ~~battle~~ comepte with other teams and their robots. If we do well enough in a regional competition, we advance to a district competition, and so on and so forth until World Champs in Houston. As of yet we hav never gotten quite so far, but we hope to eventuall get there. Below is the schedule for the regionals we are attending this year, in Glacier Peak HS and Auburn HS.  
-**PNW DISTRICT GLACIER PEAK EVENT**
-Date:
-Mar 3 - Mar 5 2023
-Event:
-Qualifying Event
-Program:
-FIRST Robotics Competition
-Glacier Peak High School
-7401 144th Place SE
-Snohomish, WA 98296 USA
+**PNW DISTRICT GLACIER PEAK EVENT**  
+Date:  
+Mar 3 - Mar 5 2023  
+Event:  
+Qualifying Event  
+Program:  
+FIRST Robotics Competition  
+*Glacier Peak High School  
+7401 144th Place SE  
+Snohomish, WA 98296 USA*    
