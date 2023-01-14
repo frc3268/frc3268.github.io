@@ -31,7 +31,7 @@ We attend 2 regional competitions every year where we ~~battle~~ comepte with ot
   
 **PNW DISTRICT GLACIER PEAK EVENT**  
 Date:  
-Mar 3 - Mar 5 2023  
+March 3 - March 5 2023  
 Event:  
 Qualifying Event  
 Program:  
@@ -39,3 +39,14 @@ FIRST Robotics Competition
 *Glacier Peak High School  
 7401 144th Place SE  
 Snohomish, WA 98296 USA*    
+  
+**PNW DISTRICT AUBURN EVENT**  
+Date : March 31st - April 2nd 2023  
+Event:  
+Qualifying Event  
+Program:  
+FIRST Robotics Competition  
+*Auburn High School
+711 E. Main St. Auburn, WA 98002 USA*  
+
+
