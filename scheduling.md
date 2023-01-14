@@ -30,23 +30,13 @@ From January until the start of Spring break, we are in *Build Season*, which is
 We attend 2 regional competitions every year where we ~~battle~~ comepte with other teams and their robots. If we do well enough in a regional competition, we advance to a district competition, and so on and so forth until World Champs in Houston. As of yet we hav never gotten quite so far, but we hope to eventuall get there. Below is the schedule for the regionals we are attending this year, in Glacier Peak HS and Auburn HS.  
   
 **PNW DISTRICT GLACIER PEAK EVENT**  
-Date:  
-March 3 - March 5 2023  
-Event:  
-Qualifying Event  
-Program:  
-FIRST Robotics Competition  
+Date: March 3 - March 5 2023  
 *Glacier Peak High School  
 7401 144th Place SE  
 Snohomish, WA 98296 USA*    
   
 **PNW DISTRICT AUBURN EVENT**  
 Date : March 31st - April 2nd 2023  
-Event:  
-Qualifying Event  
-Program:  
-FIRST Robotics Competition  
 *Auburn High School
 711 E. Main St. Auburn, WA 98002 USA*  
-
 
