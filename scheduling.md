@@ -5,7 +5,7 @@ subtitle: When we meet and when we don't
 ---
 
 ## Off-Season Schedule  
-During the off-season, a period from september to december and april to june, we meet once a week, specifically on mondays, after school in room 600(accessible through room 602, Mr.Donnelly's classroom)  
+During the off-season, a period from september to december and april to june, we meet once a week, specifically on mondays, after school in room 600(accessible through room 602, Mr. Donnelly's classroom)  
 During this time, the club does recruitment and new members get acquainted with the club and what we do.  
 
 ## Build Season  
