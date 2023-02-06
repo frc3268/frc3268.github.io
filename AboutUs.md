@@ -12,5 +12,5 @@ The FRC entails us building a robot which completes a series of objectives, like
 
 Anyone can join! To become a member, you just need to show up to our meetings. We don't have any membership fees or dues, and our funding is pretty solid because of FRC's unnecessarily high entrance fees, so feel free to hop in at any time!
 
-*You do have to be a student in Northshore School district, though.*
+*You do have to be a student in Northshore School district, though.*  
 Join our [discord](https://discord.gg/a5N8bf5n) or send an email to our advisor at jbrousseau@nsd.org for more info
