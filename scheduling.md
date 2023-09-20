@@ -5,9 +5,7 @@ subtitle: When we meet and when we don't
 ---
 
 ## Off-Season Schedule  
-During the off-season, a period from September to December and April to June, we meet once a week (usually Mondays) after school in room 600 (accessible through room 602, Mr. Donnelly's classroom).    
-We spend this time usually polishing up our skills and finding others interested in the club. 
-
+During the off-season, a period from September to December and April to June, we meet on **Mondays after school** and **Wednesdays during Viking Time**. Our after-school meetings end when the activity bus comes, or **4:25.** Our Viking Time meetings end when Viking time does.
 ## Build Season  
 From January until the start of Spring break, we are in *Build Season*, which is a fancy way of saying that we meet more often. Below is our schedule for build season. 
 
