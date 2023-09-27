@@ -21,7 +21,7 @@ subtitle: Handy links for people without them.
 [The Blue Alliance](https://www.thebluealliance.com/)  
 [Cheif Delphi](https://www.chiefdelphi.com/)  
 
-## Our Tean
+## Our Team
 ##### Slideshows and stuff  
 [Links Slideshow](https://docs.google.com/presentation/d/1uBUXaU0klhqrKfSVgvOhWwHHzq5rqm7AjAje5k9i2Tc/edit?usp=sharing)
 
