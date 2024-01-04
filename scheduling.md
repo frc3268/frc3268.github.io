@@ -22,8 +22,9 @@ Snohomish, WA 98296 USA*
  
 **PNW DISTRICT SAMMAMISH EVENT**  
 Date : March 22nd - March 24th 2024  
-*Sammamish High School
-100 140th Ave SE, Bellevue, WA 98005 USA*  
+*Sammamish High School  
+100 140th Ave SE  
+Bellevue, WA 98005 USA*  
 
 
 
