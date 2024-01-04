@@ -9,34 +9,21 @@ During the off-season, a period from September to December and April to June, we
 ## Build Season  
 From January until the start of Spring break, we are in *Build Season*, which is a fancy way of saying that we meet more often. Below is our schedule for build season. 
 
-**Monday**  
-3:20pm - 5:20pm
-
-**Tuesday**  
-3:20pm - 5:20pm
-
-**Wednesday**  
-1:50pm - 4:50pm
-
-**Thursday**  
-3:20pm - 5:20pm
-
-**Friday**  
-3:20pm - 4:20pm  
+**TBA**
 
 ## Competitions  
 We attend 2 regional competitions every year where we ~~battle~~ compete against other teams and their robots. If we do well enough in a regional competition, we advance to a district competition, and so on and so forth. As of yet we have never gotten particularly far, but we hope to eventually get there. Below is the schedule for the regionals we are attending this year, at Glacier Peak HS and Auburn HS.  
  
 **PNW DISTRICT GLACIER PEAK EVENT**  
-Date: March 3 - March 5 2023  
+Date: March 3 - March 5 2024  
 *Glacier Peak High School  
 7401 144th Place SE  
 Snohomish, WA 98296 USA*    
  
-**PNW DISTRICT AUBURN EVENT**  
-Date : March 31st - April 2nd 2023  
-*Auburn High School
-711 E. Main St. Auburn, WA 98002 USA*  
+**PNW DISTRICT SAMMAMISH EVENT**  
+Date : March 22nd - March 24th 2024  
+*Sammamish High School
+100 140th Ave SE, Bellevue, WA 98005 USA*  
 
 
 
