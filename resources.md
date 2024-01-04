@@ -23,7 +23,7 @@ subtitle: Handy links for people without them.
 
 ## Our Team
 ##### Slideshows and stuff  
-[Links Slideshow](https://docs.google.com/presentation/d/1uBUXaU0klhqrKfSVgvOhWwHHzq5rqm7AjAje5k9i2Tc/edit?usp=sharing)
+[Links Slideshow](https://docs.google.com/presentation/d/1uBUXaU0klhqrKfSVgvOhWwHHzq5rqm7AjAje5k9i2Tc/edit?usp=sharing)  
 [ValhallaLib Documentation](https://github.com/frc3268/ValhallaLib/blob/master/docs/swervemodule.md)
 
 
