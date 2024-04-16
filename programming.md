@@ -4,9 +4,9 @@ title: Programming
 subtitle: Information for the people who are interested into programming
 ---
 
-1. We have a **[GitHub organization]**(https://github.com/frc3268) which serves as the home for 3268 programming. To join, send an email to inglemoor.robotics@gmail.com with your GitHub username, or bring the topic up at a club meeting. Whoever is in charge of the organization will then add you.
+1. We have a **[GitHub organization](https://github.com/frc3268)** which serves as the home for 3268 programming. To join, send an email to inglemoor.robotics@gmail.com with your GitHub username, or bring the topic up at a club meeting. Whoever is in charge of the organization will then add you.
 
-2. Each week(assuming there is a meeting of the club), the programming team(anyone actively working on the robot's code) will meet to discuss how the last week went, as well as tasks for the upcoming week. Those tasks are organized in a **[GitHub project]**(https://github.com/orgs/frc3268/projects/2), visible only to organization members. Tasks are taken on a first come first serve basis, but make sure not to take a task which you feel you can't complete in the time you have to complete it. It is *OK to have other things going on, but please tell someone if that happens so you don't delay things.
+2. Each week(assuming there is a meeting of the club), the programming team(anyone actively working on the robot's code) will meet to discuss how the last week went, as well as tasks for the upcoming week. Those tasks are organized in a **[GitHub project](https://github.com/orgs/frc3268/projects/2)**, visible only to organization members. Tasks are taken on a first come first serve basis, but make sure not to take a task which you feel you can't complete in the time you have to complete it. It is *OK to have other things going on, but please tell someone if that happens so you don't delay things.
 
 3. If a task is large enough/involves changing existing code, you should create a separate branch on the repo the task is on, and then make the changes. If you have an idea/concern/suggestion, test it if possible, as soon as possible, and do so in a separate branch. You don't have to consult with others to do this unless and until you want to integrate those changes back into the main branch(or those changes require more changes that you can't/don't want to do.)
 
