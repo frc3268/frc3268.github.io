@@ -78,11 +78,13 @@ hr {
   margin-bottom: 0;
   margin-top: 0;
   align-self: start;
+  width: 25vw;
 
 }
 
 .notice>p{
   width: 65%;
+  justify-content: center;
 }
 
 p{
